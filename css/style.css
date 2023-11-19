@@ -452,13 +452,13 @@ header {
 		line-height: 27px; }
 
 .contacts-body-item--1 {
-		background: url("../../img/contacts/vv.png") left no-repeat; }
+		background: url("../img/contacts/vv.png") left no-repeat; }
 
 .contacts-body-item--2 {
-		background: url("../../img/contacts/email.png") left no-repeat; }
+		background: url("../img/contacts/email.png") left no-repeat; }
 
 .contacts-body-item--3 {
-		background: url("../../img/contacts/telephone.png") left no-repeat; }
+		background: url("../img/contacts/telephone.png") left no-repeat; }
 
 .contacts-social {
 		display: -webkit-box;
